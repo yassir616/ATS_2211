@@ -1,0 +1,238 @@
+#root {
+  height: 100% !important;
+}
+
+.h100 {
+  height: 100% !important;
+}
+
+.divCenter {
+  margin: 0 auto;
+}
+body {
+  background-image: url("../assets/talafulBgG.webp") !important;
+  font-family: Calibri, sans-serif !important;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.ant-menu-submenu > .ant-menu {
+  background-color: #f6faff;
+  border-radius: 4px;
+}
+
+.search-header > input {
+  border: none !important;
+  width: 300px;
+}
+
+/* ------------ SOA Form ------------- */
+.rech-btn {
+  background-color: #eaa76c;
+  color: white;
+  border-color: #ec9d58;
+}
+
+.rech-btn:hover {
+  border-color: #ec9d58;
+  background-color: #ec9d58;
+  color: white;
+}
+
+.nouveau-btn {
+  background-color: rgb(119, 204, 109);
+  border: 1px solid rgb(119, 204, 109);
+}
+
+.nouveau-btn:hover {
+  background-color: #00c49f;
+  border: 1px solid #00c49f;
+}
+
+.col-form {
+  height: 40px;
+}
+
+.criteres-rech {
+  text-align: center;
+  color: #eaa76c;
+  border: 3px solid #eaa76c;
+  border-bottom: none;
+  background-color: #fff8f2;
+}
+
+/* filter recherche */
+.ant-input-group-addon .ant-btn-primary {
+  background-color: rgb(109 134 171);
+  border-color: rgb(109 134 171);
+}
+
+/* .ant-table-thead > tr > th {
+  padding-right: 30px !important;
+  background-color: #eaa76c;
+  color: white;
+
+} */
+
+/* ------------ SOA MRB ------------- */
+
+.ant-page-header-ghost {
+  background-color: #f8b460;
+}
+
+.ant-page-header-heading-title,
+.ant-page-header-heading-sub-title {
+  color: #fde8d6;
+}
+
+.ant-divider-inner-text {
+  color: rgb(90 88 93);
+}
+.table-simulation {
+  padding: 4%;
+}
+.table-simulation
+  > .ant-spin-nested-loading
+  > .ant-spin-container
+  .ant-table
+  > .ant-table-content
+  > .ant-table-body {
+  background-color: #f3f3f3;
+  color: #eaa76c;
+  font-weight: bold;
+  font-display: swap;
+}
+.table-simulation
+  > .ant-spin-nested-loading
+  > .ant-spin-container
+  .ant-table
+  > .ant-table-content
+  > .ant-table-body
+  > table
+  > .ant-table-thead
+  > tr
+  > th {
+  padding-right: 30px !important;
+  background-color: #fafafa;
+  color: #464750;
+  text-align: center;
+  font-size: 14px;
+  font-display: swap;
+}
+.table-simulation
+  > .ant-spin-nested-loading
+  > .ant-spin-container
+  .ant-table
+  > .ant-table-content
+  > .ant-table-body
+  > table
+  > .ant-table-tbody
+  > tr
+  > td {
+  text-align: center;
+  background-color: #f3f3f3;
+  color: #f58500;
+  font-weight: bold;
+  font-size: 18px;
+  font-display: swap;
+}
+.table-simulation
+  > .ant-spin-nested-loading
+  > .ant-spin-container
+  .ant-table
+  > .ant-table-content
+  > .ant-table-body
+  > table
+  > .ant-table-thead
+  > tr
+  > th:last-child {
+  color: #f58500;
+  font-size: 18px;
+  font-weight: bold;
+  font-display: swap;
+}
+.table-simulation
+  > .ant-spin-nested-loading
+  > .ant-spin-container
+  .ant-table
+  > .ant-table-content
+  > .ant-table-body
+  > table
+  > .ant-table-tbody
+  > tr
+  > td:last-child {
+  background-color: #f58500;
+  color: white;
+  font-size: 22px;
+  font-display: swap;
+}
+.table-simulation
+  > .ant-spin-nested-loading
+  > .ant-spin-container
+  .ant-table
+  > .ant-table-content
+  > .ant-table-body
+  > table
+  > .ant-table-tbody
+  > tr
+  > td:first-child {
+  color: #464750;
+}
+.table-simulation
+  > .ant-spin-nested-loading
+  > .ant-spin-container
+  .ant-table
+  > .ant-table-content
+  > .ant-table-body
+  > table
+  > .ant-table-tbody
+  > tr
+  > td:nth-child(2) {
+  color: #464750;
+}
+.simulation-mrb {
+  padding: 0%;
+}
+.simulation-mrb
+  > .ant-spin-nested-loading
+  > .ant-spin-container
+  .ant-table
+  > .ant-table-content
+  > .ant-table-body
+  > table
+  > .ant-table-thead
+  > tr
+  > th:nth-child(5) {
+  color: #f58500;
+  font-size: 18px;
+  font-weight: bold;
+  font-display: swap;
+}
+.simulation-mrb
+  > .ant-spin-nested-loading
+  > .ant-spin-container
+  .ant-table
+  > .ant-table-content
+  > .ant-table-body
+  > table
+  > .ant-table-tbody
+  > tr
+  > td:nth-child(5) {
+  background-color: #f58500;
+  color: white;
+  font-size: 22px;
+  font-display: swap;
+}
+
+.simulation-mrb
+  > .ant-spin-nested-loading
+  > .ant-spin-container
+  .ant-table
+  > .ant-table-content
+  > .ant-table-body
+  > table
+  > .ant-table-tbody
+  > tr
+  > td:last-child {
+  border-left: 1px solid #fafafa;
+}

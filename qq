@@ -1,0 +1,570 @@
+[33mcommit d1fb2d628160a0c2a96edb398b7d0a4bb5226162[m[33m ([m[1;36mHEAD -> [m[1;32mDevelop[m[33m, [m[1;31morigin/Develop[m[33m)[m
+Author: Mouatamid <mouatamid.ela@gmail.com>
+Date:   Mon Apr 19 12:55:57 2021 +0000
+
+    Parametrage retrair produit : List data table and Routes
+
+[33mcommit e6900e44986b08b387220e386c1a84b4b3cb4606[m
+Merge: 3c8f16c 05d5f13
+Author: Mouatamid <mouatamid.ela@gmail.com>
+Date:   Fri Apr 16 14:22:53 2021 +0000
+
+    Merge branch 'Develop' of https://gitlab.com/assafar/takafulfront into Develop
+
+[33mcommit 3c8f16cfbfea1d43d497db1a7f657f0847fc5078[m
+Author: Mouatamid <mouatamid.ela@gmail.com>
+Date:   Fri Apr 16 14:22:25 2021 +0000
+
+    Fix parametrage not showed in menu
+
+[33mcommit 05d5f13ae374ce689e3cb26da4d4c0c3cc9d65f6[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Tue Mar 30 10:23:45 2021 +0000
+
+    partenaire
+
+[33mcommit 2a6f50738df76de0e3395901485af037671b073f[m
+Merge: eb32170 15cfbde
+Author: hind_najed <najedhind@gmail.com>
+Date:   Thu Mar 11 16:43:42 2021 +0000
+
+    pull
+
+[33mcommit 15cfbde806501511050561ba270edff1422d17f2[m
+Author: Mouatamid <mouatamid.ela@gmail.com>
+Date:   Thu Mar 11 16:22:07 2021 +0100
+
+    Change To Produit Mrb Fix
+
+[33mcommit eb321708a63fa5b6b689f49c3f3e22971d5e7403[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Thu Mar 11 13:49:11 2021 +0000
+
+    fixation des beugs
+
+[33mcommit 844c17fd114037b6c9996d8377c7488c6ea06b96[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: c924c14 60938c6
+Author: hind_najed <najedhind@gmail.com>
+Date:   Wed Jan 20 14:05:16 2021 +0000
+
+    Merge branch 'master' of https://gitlab.com/assafar/takafulfront
+
+[33mcommit c924c14e8fbabdec0ad2edacb9bad283be598f26[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Wed Jan 20 14:04:17 2021 +0000
+
+    Ajout des champs de calcul (Souscription , Simulation),
+
+[33mcommit 60938c6926e148268e84ef7f884f32f4a76e467c[m
+Merge: 8a01c62 59e4365
+Author: hind_najed <najedhind@gmail.com>
+Date:   Thu Jan 14 17:56:41 2021 +0100
+
+    Merge branch 'master' of https://gitlab.com/assafar/takafulfront
+
+[33mcommit 8a01c62730a10c979ccf70bf49bb6cd093015fc6[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Thu Jan 14 17:55:54 2021 +0100
+
+    changes
+
+[33mcommit 59e436524b2db8de076d35da015b4ba40eeee596[m
+Merge: 5f4c749 93a5c5d
+Author: hind_najed <najedhind@gmail.com>
+Date:   Thu Jan 14 14:48:53 2021 +0000
+
+    changes fix
+
+[33mcommit 5f4c7493504cb6bbe93bd4263305f035e0243965[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Thu Jan 14 14:44:49 2021 +0000
+
+    changes
+
+[33mcommit 93a5c5d9a03f828b162e1995ba598d6d5404d99e[m
+Author: monaiim <abdelmounaim.dehaoui@mamda-mcma.ma>
+Date:   Tue Jan 12 10:25:51 2021 +0000
+
+    adding client id first step
+
+[33mcommit 5913188fdc528e70b29cf1e99321f03e0ba018ee[m
+Author: Monaiim <m.o.dehaoui@gmail.com>
+Date:   Thu Dec 24 15:01:43 2020 +0100
+
+    bug fix
+
+[33mcommit 5e184f7b595fa87f40e366a748a167a3b477ccdc[m
+Author: Monaiim <m.o.dehaoui@gmail.com>
+Date:   Thu Dec 17 16:23:56 2020 +0100
+
+    step three required fields bug fixing
+
+[33mcommit 46e4535f817caa0a36ddb2d88212053064758198[m
+Merge: 73af373 a2d97f2
+Author: hind_najed <najedhind@gmail.com>
+Date:   Wed Dec 16 01:37:02 2020 +0100
+
+    Encaissement fix
+
+[33mcommit 73af3732ef03240e683cdd6ffdc607e20129845a[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Wed Dec 16 01:34:31 2020 +0100
+
+    Encaissement
+
+[33mcommit a2d97f247899aaa87fe146edb1cbced9f4a1dbe1[m
+Author: Monaiim <m.o.dehaoui@gmail.com>
+Date:   Tue Dec 15 15:59:39 2020 +0100
+
+    simulation
+
+[33mcommit ca13a3dd369505a4da9fccaa433e84a00bcf8832[m
+Merge: 8cf6800 0337f2c
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Mon Dec 7 17:15:04 2020 +0100
+
+    Merge branch 'master' of https://gitlab.com/assafar/takafulfront
+
+[33mcommit 8cf6800f37f7b951d7b9d8129b2a3196708cd7f3[m
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Mon Dec 7 17:14:57 2020 +0100
+
+    check step three values
+
+[33mcommit 0337f2cb5ba7ba81b6e08727cefc473b64cb2050[m
+Merge: 9f03e09 a972e10
+Author: hind_najed <najedhind@gmail.com>
+Date:   Mon Dec 7 12:32:41 2020 +0000
+
+    change fix
+
+[33mcommit 9f03e097da75dea2c3f2f0ebedb2cf3e0c65524d[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Mon Dec 7 12:29:25 2020 +0000
+
+    change
+
+[33mcommit a972e10986db6b9c72285781a00d30bf3716641a[m
+Merge: e357031 0c32dfe
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Thu Dec 3 15:44:14 2020 +0100
+
+    Merge branch 'master' of https://gitlab.com/assafar/takafulfront
+
+[33mcommit e35703156d18d5c533f77dcadd672aaa8be18b42[m
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Thu Dec 3 15:44:06 2020 +0100
+
+    modification de l agence l heur de la modification
+
+[33mcommit 0c32dfe1b09dd4b2fd8ed97762070ce0cc60343d[m
+Author: monaiim <abdelmounaim.dehaoui@mamda-mcma.ma>
+Date:   Thu Nov 26 12:10:54 2020 +0000
+
+    roles menun bug fixing
+
+[33mcommit 602900c9cba8b05bc1b74545f0582e6da65b058a[m
+Merge: 286fc25 d332c60
+Author: hind_najed <najedhind@gmail.com>
+Date:   Tue Nov 24 22:36:34 2020 +0100
+
+    Merge branch 'master' of https://gitlab.com/assafar/takafulfront
+
+[33mcommit 286fc25722aa1cae88ab201d9d7dd9bd0f74a7f7[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Tue Nov 24 22:34:58 2020 +0100
+
+    cotisation
+
+[33mcommit d332c6070f598bf1e4539babfe93445fe68a556f[m
+Merge: 2acd7dd d8fcfe0
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Tue Nov 24 19:20:10 2020 +0100
+
+    Merge branch 'master' of https://gitlab.com/assafar/takafulfront
+
+[33mcommit 2acd7dd6bae05255c2cd33658191f6f4e8036bcc[m
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Tue Nov 24 19:14:48 2020 +0100
+
+    modification et supression des participants
+
+[33mcommit 9eb5d80cfea9842ede9c649a78f956a0f050fa7e[m
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Tue Nov 24 19:13:30 2020 +0100
+
+    adjuster le menu pour l agent de banque et de bureau direct
+
+[33mcommit d8fcfe0f6a8f5c110995b244850fd6110b82f7cf[m
+Merge: 62dc0d6 35c974c
+Author: hind_najed <najedhind@gmail.com>
+Date:   Wed Nov 11 17:03:26 2020 +0000
+
+    sinistreMrb fix
+
+[33mcommit 62dc0d620e4976a7a18cc0991dfdebcf5ffc6ba4[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Wed Nov 11 17:02:08 2020 +0000
+
+    sinistreMrb
+
+[33mcommit 35c974c00b5870e698a5cb45ce5eaf63fbe670f6[m
+Merge: 19ef461 96ae532
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Wed Nov 11 15:41:59 2020 +0100
+
+    Merge branch 'master' of https://gitlab.com/assafar/takafulfront
+
+[33mcommit 19ef461ae1281b3f427de12a785526129b21f63f[m
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Wed Nov 11 15:41:33 2020 +0100
+
+    edit button
+
+[33mcommit 96ae532c82a4d746128862dfc2687339e8ac4d62[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Thu Nov 5 16:41:43 2020 +0000
+
+    fix up
+
+[33mcommit c064908327ff6e5ee575c97a98670dfb09b2708f[m
+Merge: d85e630 cd02d22
+Author: hind_najed <najedhind@gmail.com>
+Date:   Wed Nov 4 18:32:34 2020 +0100
+
+    gestion de contrats MRB fix
+
+[33mcommit d85e63083e1453eab371b7fa4ea45c30c3a7e0ca[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Wed Nov 4 18:18:34 2020 +0100
+
+    gestion de contrats MRB
+
+[33mcommit cd02d22982831cee0462281d58d82caa851c4dfb[m
+Author: monaiim <abdelmounaim.dehaoui@mamda-mcma.ma>
+Date:   Wed Nov 4 16:49:13 2020 +0000
+
+    adding simulation
+
+[33mcommit 7a097efc741479afdd4ef04ccc4ad8f70b135fb0[m
+Author: monaiim <abdelmounaim.dehaoui@mamda-mcma.ma>
+Date:   Tue Nov 3 16:01:39 2020 +0000
+
+    correction de beug alphanumerique etap 3
+
+[33mcommit 6f6b5010a37ee4cad4ed0900e1588547d18f7f50[m
+Author: monaiim <abdelmounaim.dehaoui@mamda-mcma.ma>
+Date:   Mon Nov 2 16:34:59 2020 +0000
+
+    adding step four to subscription
+
+[33mcommit 2b68119c04d2145bfc0e6c2ce6caaa26ff398d66[m
+Author: H-youssef <Youssef.Haddouche@mamda-mcma.ma>
+Date:   Wed Oct 28 16:15:43 2020 +0000
+
+    done btn step four fix
+
+[33mcommit 97bb5c51662e5537d289ebbf4581f27926f8fe98[m
+Author: H-youssef <Youssef.Haddouche@mamda-mcma.ma>
+Date:   Wed Oct 28 16:09:51 2020 +0000
+
+    calcul step 3 fix
+
+[33mcommit 9dbfaec8825a03a702d59c7f6842d21b67c084d5[m
+Merge: 45fd405 871e062
+Author: H-youssef <Youssef.Haddouche@mamda-mcma.ma>
+Date:   Wed Oct 28 16:09:20 2020 +0000
+
+    Merge branch 'master'
+
+[33mcommit 45fd4053c1c1bea7e379b2cb561d13a1dea669db[m
+Author: H-youssef <Youssef.Haddouche@mamda-mcma.ma>
+Date:   Wed Oct 28 14:53:22 2020 +0000
+
+    design orange
+
+[33mcommit 871e062c3dcec511e31bedccc5d7758444cbb145[m
+Merge: 31da9f5 60d5a6f
+Author: hind_najed <najedhind@gmail.com>
+Date:   Wed Oct 28 14:12:25 2020 +0000
+
+    avenant de changement de status 1
+
+[33mcommit 31da9f58ad3af2249f8c6a12c9d3eeaaa6024899[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Wed Oct 28 14:11:11 2020 +0000
+
+    avenant de changement de status
+
+[33mcommit 60d5a6fb27a47bde68a28b6cf4cef455976c1dee[m
+Merge: c7654d4 df91c08
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Wed Oct 28 11:27:08 2020 +0100
+
+    Merge branch 'master' of https://gitlab.com/assafar/takafulfront
+
+[33mcommit c7654d4e990342d0df74d1ccbda08b0668522065[m
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Wed Oct 28 11:26:59 2020 +0100
+
+    step four set up
+
+[33mcommit df91c085301ed8778e4703b64f1776f2692e395d[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Wed Oct 21 19:08:37 2020 +0100
+
+    avenant de changement du status de contrat
+
+[33mcommit 3c09ea6100d3d94fe0582e51b53ae87345c50f7e[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Wed Oct 14 16:58:44 2020 +0000
+
+    fix
+
+[33mcommit 941eb0b3fcd13737ab447e5b00ecc1a8a18f5a6d[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Sun Oct 11 22:47:59 2020 +0100
+
+    parametrage produit MRB
+
+[33mcommit 7f32e49025ed5c70ae8338c0d8fe6868caf96765[m
+Merge: ce1fab1 47dfb83
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Tue Sep 29 10:21:33 2020 +0100
+
+    Merge branch 'master' of https://gitlab.com/assafar/takafulfront
+
+[33mcommit ce1fab1a390eec998659fdf7e0426d66fbdaed13[m
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Tue Sep 29 10:21:26 2020 +0100
+
+    adding some fields to souscrition steo two
+
+[33mcommit 47dfb8317fa053eaa1819f2ebaffe9f15c09ffcc[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Mon Sep 28 17:27:48 2020 +0000
+
+    remarques3
+
+[33mcommit 1500d0e03ac09a1589a77fc695afa08d9e1c2bc5[m
+Merge: 42b215b f9f48c3
+Author: hind_najed <najedhind@gmail.com>
+Date:   Mon Sep 28 07:33:32 2020 +0100
+
+    Merge branch 'master' of https://gitlab.com/assafar/takafulfront
+
+[33mcommit 42b215b7c2038c84c5872f8960a23c8e3c5830d8[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Mon Sep 28 07:32:52 2020 +0100
+
+    remarques 2
+
+[33mcommit f9f48c3ec3a7dbbc5b71cb3e232f47508d909d7c[m
+Merge: 8565587 07593ab
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Fri Sep 25 11:19:22 2020 +0100
+
+    Merge branch 'master' of https://gitlab.com/assafar/takafulfront
+
+[33mcommit 856558757279f862498d8aa2fcdf22c3a50413ec[m
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Fri Sep 25 11:10:09 2020 +0100
+
+    ajouter des champs
+
+[33mcommit 07593abc0529c8d7b35f5554850d2524e3ae0a99[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Wed Sep 23 17:12:41 2020 +0000
+
+    Remarque 1
+
+[33mcommit c64440c4ff1d5ec12d677d729518616aff6666b7[m
+Merge: 9e56796 e25f8fe
+Author: hind_najed <najedhind@gmail.com>
+Date:   Wed Sep 16 22:39:11 2020 +0000
+
+    MRB hind2
+
+[33mcommit 9e56796043ee2fc44446fd554a277686a48b1ddb[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Wed Sep 16 22:34:49 2020 +0000
+
+    MRB hind
+
+[33mcommit e25f8feae8e7aee3a3ff5292ad70f70b643bff7a[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Wed Sep 16 18:36:04 2020 +0100
+
+    MultirisquesBatiment
+
+[33mcommit a659e668bb7654254266da09be1ed8d7110ec3ca[m
+Merge: 2346c72 94d1055
+Author: hind_najed <najedhind@gmail.com>
+Date:   Mon Sep 14 15:18:31 2020 +0100
+
+    reglement fix 1
+
+[33mcommit 2346c72fb12c22a95fc51ab5f333bccbd4286b57[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Mon Sep 14 15:16:57 2020 +0100
+
+    reglement fix
+
+[33mcommit 94d10550d7c1971eddcf40373a69f2682273b8ba[m
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Fri Sep 11 15:01:50 2020 +0100
+
+    adding user Notifications
+
+[33mcommit 16a9af106ef0eedb5c3426fac7e03a3b6caec2e4[m
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Mon Sep 7 11:50:40 2020 +0100
+
+    conflict resolve
+
+[33mcommit 0fe06ef3522283fb044a333d71152ea42cc86a39[m
+Merge: ca000c9 d064068
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Mon Sep 7 11:43:13 2020 +0100
+
+    Merge branch 'master' of https://gitlab.com/assafar/takafulfront
+
+[33mcommit ca000c906b3bf11675519362689cca821531eaaa[m
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Mon Sep 7 11:41:46 2020 +0100
+
+    implementing chat
+
+[33mcommit d064068d0e7b8d112c3a6ffac0347a793ad7cbfe[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Mon Sep 7 10:36:46 2020 +0000
+
+    somthing
+
+[33mcommit df6016b653d20b40944e2ee739b8850b0e98dc11[m
+Merge: 134cef2 f71e1b1
+Author: hind_najed <najedhind@gmail.com>
+Date:   Thu Aug 27 10:54:44 2020 +0000
+
+    Reglement fix 1
+
+[33mcommit 134cef2d61256983e31c0ed22b5325505e1c87ec[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Thu Aug 27 10:50:19 2020 +0000
+
+    Reglement fix
+
+[33mcommit f71e1b1dc570e9e13544184feaaced9e28d21d96[m
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Thu Aug 27 10:18:23 2020 +0100
+
+    detailPrestationhonoraire recherche
+
+[33mcommit 04e359549602468ca25228f502465c9df31bd14b[m
+Merge: a4fe719 0a53495
+Author: hind_najed <najedhind@gmail.com>
+Date:   Wed Aug 26 15:06:58 2020 +0000
+
+    Reglement/Sinistre fix 1
+
+[33mcommit a4fe719c8aa74c44bb6bbc3ad63a8b41f842bf53[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Wed Aug 26 15:01:25 2020 +0000
+
+    Reglement/Sinistre
+
+[33mcommit 0a534959755b684009e12b292067606b7282105c[m
+Merge: 5bb83fc b1cd539
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Mon Aug 17 12:25:29 2020 +0100
+
+    Merge branch 'master' of https://gitlab.com/assafar/takafulfront
+
+[33mcommit 5bb83fcb468f1850046a514cb8611fb4d08504da[m
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Mon Aug 17 12:24:17 2020 +0100
+
+    acceptation honoraire recherche
+
+[33mcommit b1cd5390530e32daca000e6755fa5641e430193f[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Thu Aug 13 16:07:44 2020 +0000
+
+    Reglement
+
+[33mcommit e9e316b84a2c58bca4aa79bf95184759255d35a2[m
+Merge: bfe84d9 5a8f9e3
+Author: hind_najed <najedhind@gmail.com>
+Date:   Wed Jul 29 17:00:45 2020 +0000
+
+    Merge branch 'master' of https://gitlab.com/assafar/takafulfront
+
+[33mcommit bfe84d9d2bca4ed5551a14b237897d0e8053afc2[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Wed Jul 29 17:00:34 2020 +0000
+
+    some changes
+
+[33mcommit 5a8f9e3f030255bf7f72a53da16fbc918c1cdcd3[m
+Merge: 08469c7 9efb4b2
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Mon Jul 27 19:57:53 2020 +0100
+
+    Merge branch 'master' of https://gitlab.com/assafar/takafulfront
+
+[33mcommit 08469c7c37af796d6f6148170f42dc23ca01857b[m
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Mon Jul 27 19:57:41 2020 +0100
+
+    ajouter honoraire fully functional and stable
+
+[33mcommit 9efb4b2b25fe9937c55aa1af7c5fc817700dc22d[m
+Author: Hind Najed <najedhind@gmail.com>
+Date:   Sun Jul 26 19:30:25 2020 +0100
+
+    SETStatut
+
+[33mcommit 74c9e58f90016807e99d1649376b8883ca072a73[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Fri Jul 24 17:53:03 2020 +0000
+
+    fix
+
+[33mcommit b921596810d871da599e4db1f0ffe58f1efedae2[m
+Merge: 076ab7e 906e8e0
+Author: hind_najed <najedhind@gmail.com>
+Date:   Fri Jul 24 17:31:47 2020 +0000
+
+    Set statut1
+
+[33mcommit 076ab7e54f6a1979397493c49f8703f4b81f2ed5[m
+Author: hind_najed <najedhind@gmail.com>
+Date:   Fri Jul 24 17:27:29 2020 +0000
+
+    Set statut
+
+[33mcommit 906e8e022f3fa17ffa3f89db864af39b152d98a5[m
+Merge: a9b8f4b 4f8d242
+Author: Hind Najed <najedhind@gmail.com>
+Date:   Thu Jul 23 17:29:17 2020 +0100
+
+    Merge branch 'master' of https://gitlab.com/assafar/takafulfront
+
+[33mcommit a9b8f4bd2b461041e6d64722ccfedaa31923240a[m
+Author: Hind Najed <najedhind@gmail.com>
+Date:   Thu Jul 23 17:24:31 2020 +0100
+
+    fix
+
+[33mcommit 4f8d242a35b19950ed309b9a0354b14beb35eafc[m
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Thu Jul 23 12:12:36 2020 +0100
+
+    clean
+
+[33mcommit 25ca03956c7040f506c52d7a20ef6dcbc836fdd1[m
+Merge: 5739e20 e4fe12b
+Author: unknown <m.o.dehaoui@gmail.com>
+Date:   Thu Jul 23 11:06:35 2020 +0100
+
+    Merge branch 'master' of https://gitlab.com/assafar/takafulfront

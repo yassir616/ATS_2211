@@ -1,0 +1,45 @@
+#customers {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td,
+#customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers th {
+  padding-top: 8px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #fafafa;
+}
+.my-modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input-group-text {
+  display: inline-block;
+  width: 50px;
+  font-weight: bold;
+  padding: 0.25rem 0.75rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: center;
+  white-space: nowrap;
+  background-color: #e9ecef;
+  border: 2px solid #ced4da;
+  border-bottom-right-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+}
+
+.centered-div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

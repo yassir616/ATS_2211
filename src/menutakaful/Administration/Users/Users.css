@@ -1,0 +1,11 @@
+.editable-row .ant-form-explain {
+  position: absolute;
+  font-size: 12px;
+  margin-top: -4px;
+}
+
+.reset-button {
+  color: "white";
+  width: 90;
+  background-color: "#ffc069";
+}

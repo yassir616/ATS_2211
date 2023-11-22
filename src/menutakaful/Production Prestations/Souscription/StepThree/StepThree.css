@@ -1,0 +1,43 @@
+.number-input {
+  border-radius: 0%;
+  width: 100%;
+}
+
+.prelevement > .ant-radio-button-wrapper{
+  width: 113px;
+  border-radius: 0%;
+}
+
+.prelevement > .ant-radio-button-wrapper-checked:not(.ant-radio-button-wrapper-disabled) {
+  color: #fff;
+  background: #458ed0;
+  border-color: #458ed0;
+}
+
+.simulation-input > .ant-input-wrapper > .ant-input {
+  height: 50px;
+  color: #fff;
+  background-color: #458ed0;
+}
+
+.simulation-input > .ant-input-wrapper >.ant-input-group-addon{
+  font-size: 16px;
+  color: white;
+}
+
+.simulation-input > .ant-input-wrapper >.ant-input-group-addon:first-child {
+  background-color: #3171ab;
+
+}
+
+.simulation-input > .ant-input-wrapper > .ant-input-group-addon:not(:first-child):not(:last-child),
+.simulation-input > .ant-input-group-wrap:not(:first-child):not(:last-child),
+.simulation-input > .ant-input-group > .ant-input:not(:first-child):not(:last-child) {
+  background-color: #458ed0;
+}
+
+.simulation-input > .ant-input-wrapper > .ant-input-group-addon:last-child {
+  border-left: 0;
+  background-color: #5a9edc;
+}
+

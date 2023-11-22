@@ -1,0 +1,27 @@
+.add-button {
+  border-radius: 0%;
+  margin-bottom: 10px;
+}
+
+.not-rounded {
+  border-radius: 0%;
+}
+#password {
+  border-radius: 0%;
+}
+#confirm {
+  border-radius: 0%;
+}
+.ant-select-selection--multiple {
+  border-radius: 0%;
+}
+.ant-layout,
+.ant-layout * {
+  border-radius: 0%;
+}
+.ant-select-selection--single {
+  border-radius: 0%;
+}
+.ant-calendar-picker-input.ant-input {
+  border-radius: 0%;
+}

@@ -1,0 +1,29 @@
+.editable-row .ant-form-explain {
+  position: absolute;
+  font-size: 12px;
+  margin-top: -4px;
+}
+
+.reset-button {
+  color: "white";
+  width: 90;
+  background-color: "#ffc069";
+}
+.add-button {
+  border-radius: 0%;
+  margin-bottom: 10px;
+}
+
+.not-rounded {
+  border-radius: 0%;
+}
+.submit-cancel {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  border-top: 1px solid #e9e9e9;
+  padding: 10px 16px;
+  background: #fff;
+  text-align: right;
+}

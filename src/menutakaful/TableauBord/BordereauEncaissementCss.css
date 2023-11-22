@@ -1,0 +1,9 @@
+.disabled {
+  background-color: grey;
+  color: white;
+}
+
+.notDisabled {
+  background-color: #ec9d58;
+  color: white;
+}

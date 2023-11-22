@@ -1,0 +1,34 @@
+.back {
+  width: 90%;
+  display: block;
+  margin: 0 auto;
+}
+.ant-card-head-title{
+    font-weight: 500;
+    color: rgba(0,0,0,0.85);
+    height: 45px;
+    width: 440px;
+}
+.ant-card-body {
+  transform-origin: 0 0;
+}
+.ant-card-body:hover{
+  background-color: #fafafa;
+}
+.ant-card-type-inner .ant-card-head{
+  border-top: 3px solid #e6e4e4;
+}
+div.ant-card.ant-card-bordered.ant-card-hoverable{
+  border: 3px solid white;
+  box-shadow: 0 2px 2px 0 white;
+}
+.ant-card-meta-description {
+  color: black;
+}
+.ant-avatar-circle {
+  border-radius: 100% !important;
+}
+img{
+  width:250;
+  height:160;
+}
