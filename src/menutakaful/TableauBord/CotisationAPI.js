@@ -98,15 +98,14 @@ export function getEmissionGlobale(
   return request({
     url:
       API_BASE_URL +
-      "/private/cotisation/emissionGlobale/" +
-      partenaireid +
-      "/" +
-      produitId +
-      "/" +
-      searchStartDate +
-      "/" +
-      searchEndDate,
-    method: "GET",
+      "/private/cotisation/emissionGlobale",
+    data:{
+      startDate:searchStartDate,
+      endDate:searchEndDate,
+      partenaireId:partenaireid,
+      produitId:produitId
+    },
+    method: "POST",
   });
 }
 
