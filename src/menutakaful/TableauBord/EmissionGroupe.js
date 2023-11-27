@@ -55,8 +55,8 @@ class EmissionGroupe extends Component {
       produits: [],
       partenaires: [],
       produitPartenaire: [],
-      partenaireId: "empty",
-      produitId: "empty",
+      partenaireId: "",
+      produitId: "",
       SommeMontantTTC: 0,
       numeroLot: "",
       validVisible: true,
@@ -234,7 +234,7 @@ class EmissionGroupe extends Component {
   }
 
   handlePartnerChange = (value) => {
-    this.setState({ produitId: "empty" });
+    this.setState({ produitId: "" });
     this.setState({ partenaireId: value.key, cotisationFiltred: [] });
     this.props.form.setFieldsValue({ produit: "" });
     let list = [...this.state.produits];
